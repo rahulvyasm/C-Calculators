@@ -21,9 +21,11 @@ int main () {
         /*output*/
         printf("\n\tTotal Surface Area of the Cylinder = %.2f\n", totalSurfaceArea);
         printf("\tTotal Volume of the Cylinder = %.2F\n", totalVolume);
+        printf("\nCreated by RAHUL VYAS.M");
 
     } else {
-        printf("\n\tInvaild input! Radius and Length must be greater than or equal to 0");
+        printf("\n\tInvaild input! Radius and Length must be greater than or equal to 0\n");
+        printf("\nCreated by RAHUL VYAS.M");
     }
 
     return 0;
