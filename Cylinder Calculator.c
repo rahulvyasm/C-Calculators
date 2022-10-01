@@ -22,10 +22,8 @@ int main () {
         printf("\n\tTotal Surface Area of the Cylinder = %.2f\n", totalSurfaceArea);
         printf("\tTotal Volume of the Cylinder = %.2F\n", totalVolume);
 
-        return 0;
     } else {
         printf("\n\tInvaild input! Radius and Length must be greater than or equal to 0");
-        return 8;
     }
 
     return 0;
